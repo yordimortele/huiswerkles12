@@ -1,0 +1,98 @@
+header{
+    width: 100%;
+    height: 100px;
+    background-color: red;
+}
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: blue;
+}
+#cel1{
+    background-color: #faca08;
+    color: red;
+    height: 100px;
+    width: 100px;
+}
+#cel2{
+    background-color: #44fa08;
+    height: 100px;
+    width: 100px;
+}
+#cel3{
+    background-color: #fa7108;
+    color: blue;
+    height: 100px;
+    width: 100px;
+}
+#cel4{
+    background-color: #08fabd;
+    height: 100px;
+    width: 100px;
+}
+#cel5{
+    background-color: #08e2fa;
+    color: violet;
+    height: 100px;
+    width: 100px;
+}
+#cel6{
+    background-color: #224a89;
+    height: 100px;
+    width: 100px;
+}
+#cel7{
+    background-color: #485f62;
+    color: green;
+    height: 100px;
+    width: 100px;
+}
+#cel8{
+    background-color: #e29af6;
+    height: 100px;
+    width: 100px;
+}
+#cel9{
+    background-color: #630355;
+    color: greenyellow;
+    height: 100px;
+    width: 100px;
+}
+#cel10{
+    background-color: #f2acac81;
+    height: 100px;
+    width: 100px;
+}
+#cel11{
+    background-color: #4a7132;
+    color: aqua;
+    height: 100px;
+    width: 100px;
+}
+#cel12{
+    background-color: #f0a843;
+    height: 100px;
+    width: 100px;
+}
+#cel13{
+    background-color: #0c024299;
+    color: beige;
+    height: 100px;
+    width: 100px;
+}
+#cel14{
+    background-color: #444545;
+    height: 100px;
+    width: 100px;
+}
+#cel15{
+    background-color: #dfef74;
+    color: teal;
+    height: 100px;
+    width: 100px;
+}
+#cel16{
+    background-color: #85a089;
+    height: 100px;
+    width: 100px;
+}
